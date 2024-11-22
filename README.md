@@ -1,6 +1,5 @@
 Connect 4 Game Using Nucleo Microcontroller
 
-Overview
 This project is a Connect 4 game implemented using C and a Nucleo microcontroller. The goal was to demonstrate proficiency in embedded systems programming, including bit manipulation, multiprogramming, and hardware integration. The game integrates LEDs, buttons, and an LCD display, all wired on a breadboard, to deliver a two-player experience with features like name input, high score tracking, and game restarts.
 
 Features
@@ -18,6 +17,7 @@ Hardware and Implementation
 - Bit Manipulation: Output and input registers were configured using bit-shifting operations in C to handle game logic and hardware integration efficiently.
 
 Collaboration and Contributions
+
 As a team of three, we shared responsibilities while optimizing the use of the single microcontroller board during lab sessions:
 
   Initial Setup: Collaboratively configured the buttons, LEDs, and LCD during lab sessions to establish the hardware foundation.
